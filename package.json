@@ -1,0 +1,18 @@
+{
+  "name": "ai-voice-translator",
+  "version": "1.0.0",
+  "description": "Professional Modern Website for AI Voice Translator - Real-time bidirectional cross-lingual speech translation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "voice-translator",
+    "speech-to-speech",
+    "indic-languages",
+    "realtime-translation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
